@@ -22,6 +22,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | NCSC-NL | https://github.com/NCSC-NL/log4shell/tree/main/iocs |
 | Costin Raiu, Kaspersky | https://twitter.com/craiu/status/1470341085734051840?s=21 |
 | SANS Internet Storm Center | https://isc.sans.edu/diary/Log4Shell+exploited+to+implant+coin+miners/28124 |
+| AlienVault OTX | https://otx.alienvault.com/pulse/61b7707ea83c68d70d893db9 |
 
 ### `Threat Reports`
 
